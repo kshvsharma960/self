@@ -8,9 +8,18 @@ h1{font: 400 58px/60px 'Bree Serif', Georgia, serif; color:#6a6969;}
 h2{font: 400 18px/22px 'Bree Serif', Georgia, serif; color:#6a6969;}
 h3{font: 400 14px/16px 'Bree Serif', Georgia, serif; color:#6a6969;}
 ul{margin:0px; padding:0px;}
-a {text-decoration:none; color:#6a6969;}
+
+
+
+a {
+    color: #6a6969;
+    text-decoration: none;
+    font-style: oblique;
+    font-size: xx-large;
+    font-weight: bolder;
+}
 a:hover {color:#979797;}
-a img{border:0px;}
+
 
 #container{
 	width:950px;
@@ -80,7 +89,7 @@ a img{border:0px;}
 #about .content #service-icons{margin-top:20px;}
 #about .content #service-icons li{
 	display:block;
-	width:108px;
+	width:119px;
 	height:108px;
 	text-indent:-9999px;
 	list-style:none;
